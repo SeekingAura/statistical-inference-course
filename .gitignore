@@ -39,4 +39,4 @@ vignettes/*.pdf
 .Renviron
 
 # Folder of jupyter notebook
-/ipynb_checkpoints/
+/.ipynb_checkpoints/
