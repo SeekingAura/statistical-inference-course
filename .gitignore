@@ -38,5 +38,5 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-# Folder of jupyter notebook
-/.ipynb_checkpoints/
+# Folder of checkpoints jupyter notebook
+.ipynb_checkpoints/
